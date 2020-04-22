@@ -1,5 +1,6 @@
 """
-This is a Program which will fetch the data from original website of government.
+This is a Program which will fetch the data from original website of government. 
+https://www.mohfw.gov.in/#site-advisories
 Made by :
 	Name:- Kartik Thakkar
 	Email id:- kartik.thakkar@engineer.com
