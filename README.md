@@ -3,9 +3,9 @@ This repo contains the code which takes data directly from  Ministry of Health a
 
 ## Screenshot of MoHFW Page
 <p>
-  <img align=middle height="400" width="450" src="https://github.com/Mrkartik/covid-india/blob/master/MoHFW%20%20%20Home.png" alt="Website page">
+  <img align=middle height="500" src="https://github.com/Mrkartik/covid-india/blob/master/MoHFW%20%20%20Home.png" alt="Website page">
 </p>
 ## O/P
 <p>
-  <img align=middle height="400" width="450" src="https://github.com/Mrkartik/covid-india/blob/master/op.png" alt="Output">
+  <img align=middle height="500" src="https://github.com/Mrkartik/covid-india/blob/master/op.png" alt="Output">
 </p>
