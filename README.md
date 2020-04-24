@@ -1,6 +1,8 @@
 # covid-india
 This repo contains the code which takes data directly from  Ministry of Health and Family Welfare (https://www.mohfw.gov.in/#site-advisories).
 
+# No any Special Installation needed for Arch Users
+
 ## Screenshot of MoHFW Page
 <p>
   <img align=middle height="500" src="https://github.com/Mrkartik/covid-india/blob/master/MoHFW%20%20%20Home.png" alt="Website page">
